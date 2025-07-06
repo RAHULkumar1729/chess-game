@@ -29,7 +29,4 @@ A real-time multiplayer chess game built using **Socket.io**, **Node.js**, and *
 ![image](https://github.com/user-attachments/assets/e9687c79-f1b3-4c94-8152-c1aa527de6af)
 
 
----
-
-## 📁 Project Structure
 
